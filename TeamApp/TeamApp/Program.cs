@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using TeamApp;
 
+Task5Service.Init()
+Console.WriteLine("Hello, World!");
 Console.WriteLine("Test");
