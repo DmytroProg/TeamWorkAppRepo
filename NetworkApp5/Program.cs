@@ -1,3 +1,5 @@
 ﻿using NetworkApp5.Services;
 
-MyService.DoWork();
+//MyService.DoWork();
+ProductService productService = new ProductService("products.json");
+productService.Init();
