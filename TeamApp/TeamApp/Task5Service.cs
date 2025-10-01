@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TeamApp
 {
-    public static class Task5_Service
+    public static class Task5Service
     {
         public static void Init()
         {
